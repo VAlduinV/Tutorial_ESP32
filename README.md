@@ -1,5 +1,9 @@
 # Tutorial_ESP32
 
-![Led Smooth](lessons_arduino/img/Sample_1.jpg)
+<p align="center">
+  <img src="lessons_arduino/img/Sample_1.jpg" alt="Led Smooth" width="800" height="640" style="border: 2px solid black;" />
+</p>
 
-![Led Superbuoyancy](lessons_arduino/img/Sample_2.jpg)
+<p align="center">
+  <img src="lessons_arduino/img/Sample_2.jpg" alt="Led Superbuoyancy" width="800" height="640" style="border: 2px solid black;" />
+</p>
