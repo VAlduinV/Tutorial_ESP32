@@ -1,3 +1,6 @@
+# Ignore all .idea folder except selected files
+.idea/
+
 # Prerequisites
 *.d
 
